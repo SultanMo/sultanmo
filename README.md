@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SultanMo/sultanmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://sultanmo.github.io/">
+    <img src="https://img.shields.io/badge/github%20pages-ffffff?style=for-the-badge&logo=github&logoColor=000000" alt="Personal Website" />
+ 
+  <a href="https://www.linkedin.com/in/sultan-alshehri/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+</p>
